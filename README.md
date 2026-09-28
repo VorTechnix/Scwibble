@@ -17,12 +17,10 @@ A script based util to sync KDE Plasma wallpaper with KScreenLocker and LightDM.
 |eza    |Yes    |Sorting and permission checks|
 |python3|TBD    |May be needed for future automation|
 
-## Todo
+## Contributing/Roadmap
 
-- [ ] Interactive Mode
-- [ ] Individual syncing and setting of KScreenLocker and LightDM on a per-user basis.
-  - Will require `user-background = true` to be set in greeter conf.
-- [ ] Better flag handling
-- [ ] Implement proper directory tree with main script in a `./bin` and subscripts in `./lib` or `./libexec`
+Pull requests are welcome! See [Contributing](Contributing.md) for guidelines and project direction.
 
-Pull requests are welcome!
+## Contributors
+
+(Please sign your name below when making your first pull request.)
