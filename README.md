@@ -4,8 +4,8 @@ A script based util to sync KDE Plasma wallpaper with KScreenLocker and LightDM.
 
 ## How to Use
 
-1. Download `.zip` or `.tar.gz` from Github repo.
-2. Unpack and open a terminal in unpacked folder.
+1. [Download `.zip`](https://github.com/VorTechnix/Scwibble/archive/refs/heads/master.zip) from Github repo.
+2. Unpack into a new folder and open a terminal in that folder.
 3. `chmod u+x "./install.sh" && ./install.sh`
     - Requires `sudo` permissions
 
